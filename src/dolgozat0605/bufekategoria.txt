@@ -1,0 +1,6 @@
+﻿"id";"kategoriaNev"
+1;"Ételek"
+2;"Italok"
+3;"Állatok"
+4;"Növények"
+5;"Ajándéktárgyak"

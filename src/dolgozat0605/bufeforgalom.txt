@@ -1,0 +1,14 @@
+﻿"id";"termek";"vevo";"kategoriaId";"egyseg";"nettoar";"mennyiseg";"kiadva"
+246;"Sajtos hot-dog";"Lajos";1;"db";450;2;1
+247;"Limonádé";"Lajos";2;"dl";100;5;1
+248;"Gyrostál";"Kinga";1;"db";1500;1;1
+249;"Ízes palacsinta";"Kinga";1;"db";350;2;1
+250;"Túros palacsinta";"Kinga";1;"db";270;1;1
+251;"Narancslé";"Kinga";2;"dl";150;3;1
+252;"Főtt virsli";"Jenő";1;"pár";450;2;0
+253;"Kenyér";"Jenő";1;"szelet";60;2;1
+254;"Gyrostál";"Ági";1;"db";1500;3;0
+255;"Málnaszörp";"Ági";2;"dl";100;10;0
+256;"Sajtos hot-dog";"Lajos";2;"db";450;2;0
+257;"Málnaszörp";"Lajos";2;"dl";100;3;0
+258;"Gyros tál";"Jenő";1;"db";1500;1;0
